@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(35, 35, 35);
+}
+
+h1{
+    color: yellowgreen;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+p{
+    font-size:large;
+    color:rgb(0, 255, 140);    
+    margin-left: 10%;
+    margin-right: 10%;
+}
